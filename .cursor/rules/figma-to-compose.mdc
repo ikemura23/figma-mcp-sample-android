@@ -86,7 +86,6 @@ fun ComponentNamePreview() {
 - 各コンポーネントには`@Preview`アノテーションを付与
 
 ## 6. ファイル・パッケージ構成
-- コンポーネントは`app/src/main/java/com/example/figmamcp/ui/component`に配置
 - 関連するコンポーネントは同じパッケージにグループ化
 - コンポーネント毎にファイルを分割すること
 
